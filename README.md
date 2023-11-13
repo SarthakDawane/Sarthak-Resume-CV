@@ -1,2 +1,2 @@
 # Sarthak-Resume-CV
-My resume
+See My resume on https://sarthakdawane.github.io/Sarthak-Resume-CV/
